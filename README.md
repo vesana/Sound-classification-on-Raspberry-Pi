@@ -1,6 +1,8 @@
 Sound classification and notification project on Raspberry Pi 4 using 
 Respeaker 2-mic Pi Hat, Tensorflow, YAMNet and Telegram. 
 
+Line 118: bot.send_message(text = "Typing detected.", chat_id=None) # <- Your ChatID here.
+
 # YAMNet
 
 YAMNet is a pretrained deep net that predicts 521 audio event classes based on
