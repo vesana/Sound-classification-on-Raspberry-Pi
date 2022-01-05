@@ -9,10 +9,4 @@ telegram
 pyaudio
 resampy
 asyncio
-json
 wave
-time
-sys
-csv
-os
-io
