@@ -1,6 +1,4 @@
-## Sound classification and notification project on Raspberry Pi 4 using Respeaker 2-mic Pi Hat, Tensorflow, YAMNet and Telegram. 
-
-Integration with Azure on the works to provide visualization of some kind (graphs, spectogram?) via a web app.
+# Sound classification and notification project on Raspberry Pi 4 using Respeaker 2-mic Pi Hat, Tensorflow, YAMNet and Telegram. 
 
 These need to be changed to your microphone device: 
 * Line 33:  sd.default.device = 2
