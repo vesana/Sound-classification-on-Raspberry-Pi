@@ -1,5 +1,5 @@
-from azure.iot.device.aio import IoTHubDeviceClient
-from azure.iot.device import Message
+#from azure.iot.device.aio import IoTHubDeviceClient
+#from azure.iot.device import Message
 import matplotlib.pyplot as plt
 from scipy.io import wavfile
 from scipy import signal
