@@ -1,4 +1,4 @@
-azure.iot.device
+#azure.iot.device
 matplotlib
 scipy
 sounddevice
