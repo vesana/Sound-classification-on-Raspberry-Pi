@@ -1,0 +1,12 @@
+azure.iot.device
+matplotlib
+scipy
+sounddevice
+tensorflow
+soundfile
+numpy
+telegram
+pyaudio
+resampy
+asyncio
+wave
