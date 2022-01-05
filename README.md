@@ -9,12 +9,14 @@ Integration with Azure on the works to provide visualization of some kind (graph
 
 ## Installation
 Install packages with pip:
-´´´
+```
 pip install -r requirements.txt
-´´´
+```
 
 ## Notes
-Tested on Windows 10 with Python 3.9.9 and Raspian with Python 3.7.3. Tensorflow is not currently available for Python 3.10.
+Tested on Windows 10 with Python 3.9.9 and Raspian with Python 3.7.3.
+Tensorflow is not currently available for Python 3.10.
+
 Telegram uses environment variables TG_BOT and TG_CHATID.
 
 # YAMNet
